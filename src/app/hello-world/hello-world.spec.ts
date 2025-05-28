@@ -1,3 +1,4 @@
+import 'zone.js'
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { HelloWorld } from './hello-world';
