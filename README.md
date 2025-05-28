@@ -1,6 +1,6 @@
 # AngularCustomElement
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.0.
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.0. It is based on [the article](https://medium.com/@cory.lewis1997/angular-17-component-library-wired-for-web-components-3dccb87a6f87).
 
 ## Development server
 
